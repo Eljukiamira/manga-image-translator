@@ -22,7 +22,7 @@ transformers
 py3langid
 sentencepiece
 editdistance
-numpy==1.23.5
+numpy==1.25.0
 tensorboardX
 websockets
 protobuf
